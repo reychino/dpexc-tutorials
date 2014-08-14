@@ -43,5 +43,5 @@ ABINIT Tutorials
 -----------------
 Included are two ABINIT tutorials to get the user started with convergence calculations and the creation of the Kohn-Sham structure, GW correction, and screening files.
 
-These tutorials are the [Abinit Tutorial #3](http://www.abinit.org/documentation/helpfiles/for-v6.6/tutorial/lesson_3.html) and the [first Abinit GW Tutorial](http://www.abinit.org/documentation/helpfiles/for-v6.6/tutorial/lesson_gw1.html).
+These tutorials are the [Abinit Tutorial #3](http://www.abinit.org/documentation/helpfiles/for-v6.6/tutorial/lesson_3.html) and the [first Abinit GW Tutorial](http://www.abinit.org/documentation/helpfiles/for-v7.4/tutorial/lesson_gw1.html).
 
